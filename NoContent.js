@@ -1,5 +1,3 @@
-```javascript
-
 import React from 'react';
 
 const styles = {
@@ -128,4 +126,4 @@ const SvgNoContent = props => (
 );
 
 export default SvgNoContent;
-```
+
